@@ -1,0 +1,7 @@
+ProductID,Name,Description,Price,Category,Manufacturer,SKU
+1001,T-Shirt,Comfortable cotton t-shirt,15.99,Clothing,BrandA,TS-1001
+1002,Jeans,Classic blue denim jeans,39.99,Clothing,BrandB,JN-1002
+1003,Running Shoes,Lightweight running shoes,79.99,Shoes,BrandC,RS-1003
+1004,Laptop,15-inch laptop with SSD,999.00,Electronics,BrandD,LP-1004
+1005,Coffee Maker,Automatic coffee maker,49.99,Appliances,BrandE,CM-1005
+
