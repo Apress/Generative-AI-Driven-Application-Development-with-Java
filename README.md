@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*%title%*](https://www.link.springer.com/book/10.1007/979-8-8688-1609-3) by Satej Kumar Sahu (Apress, 2026).
+This repository accompanies [*Generative AI-Driven Application Development with Java*](https://www.link.springer.com/book/10.1007/979-8-8688-1609-3) by Satej Kumar Sahu (Apress, 2026).
 
 [comment]: #cover
 ![Cover image](979-8-8688-1608-6.jpg)
